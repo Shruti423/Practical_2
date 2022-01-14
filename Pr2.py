@@ -1,7 +1,7 @@
 # STUDENT ID: 20CE065
 # STUDENT NAME: SHRUTI PAGHADAL
 # AIM: Study and Learn List, Tuple, Set and Dictionary 
-# GITHUB LINK: 
+# GITHUB LINK: https://github.com/Shruti423/Practical_2.git
 
 print("------------------------------------------- DICTIONARY ------------------------------------------------")
 print("--------------------- TASK 1 OF DICTIONARY --------------------------")
